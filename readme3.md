@@ -1,18 +1,18 @@
 ### 记住我在学习
 ---
 #  ~老子天下第一~
-#### **markdown太简单了吧！！！**
-*>>markdown*
+####  **markdown太简单了吧！！！**
+*>> markdown*
 ![timg](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1562310523202&di=e440ba0a9607e47b11ceb7055ed6adaa&imgtype=0&src=http%3A%2F%2Fpic19.nipic.com%2F20120211%2F7447807_175725670000_2.jpg"小猫")   
-##**这是两个主要的学习网站**
+## **这是两个主要的学习网站**
   
     
 [百度](http://baidu.com)   
 [简书](http://jianshu.com)   
 >> 姓名 | 长相 | 排名          
 >> -----|-----|------           
->> 王智恒|99.9|3           
->> 郑有为|99.9|2             
+>> 王智恒|99.9|2           
+>> 郑有为|99.9|3             
 >> 张飞|100|1            
 
 **hdu1089**       
