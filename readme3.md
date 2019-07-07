@@ -3,7 +3,7 @@
 #  ~老子天下第一~
 ####  **markdown太简单了吧！！！**
 >> *markdown*   
-![测试](https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1562460512&di=99bb8e82c2cd5e83966c6bab63fb38c6&src=http://b-ssl.duitang.com/uploads/item/201806/28/2018062880919_rrN8V.jpeg)           
+![测试](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1562470730539&di=7ae59ca9f34564232176c867f9ef4728&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201712%2F01%2F20171201130555_C5K4s.jpeg)           
 ## **这是两个主要的学习网站**
   
     
