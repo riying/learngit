@@ -3,7 +3,7 @@
 #  ~老子天下第一~
 ####  **markdown太简单了吧！！！**
 >> *markdown*   
-![timg](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1562310523202&di=e440ba0a9607e47b11ceb7055ed6adaa&imgtype=0&src=http%3A%2F%2Fpic19.nipic.com%2F20120211%2F7447807_175725670000_2.jpg"小猫")   
+![timg](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1562310523202&di=e440ba0a9607e47b11ceb7055ed6adaa&imgtype=0&src=http%3A%2F%2Fpic19.nipic.com%2F20120211%2F7447807_175725670000_2.jpg"小猫")        
 ## **这是两个主要的学习网站**
   
     
@@ -15,7 +15,7 @@
 >> 郑有为|99.9|3             
 >> 张飞|100|1            
 
-**hdu1089**       
+**1.hdu1089**       
 ```   
 #include <stdio.h>    
 #include <stdlib.h>     
@@ -31,7 +31,7 @@ int main(void)
 }   
 ```      
     
-**hduoj2012**             
+**2.hdu2012**             
 ###   *Problem Description:*                  
 ###  **对于表达式n^2+n+41，当n在（x,y）范围内取整数值时（包括x,y）(-39<=x<y<=50)，判定该表达式对于每个给定范围内的取值，如果表达式的值都为素数，则输出“OK”，否则输出“sorry”，每组输入占一行。**             
 ##  **Input**                   
@@ -90,6 +90,6 @@ int main()
 ```   
    
 ##    Web sites    
-[oj2012](http://acm.hdu.edu.cn/showproblem.php?pid=2012)     
+[hdu2012](http://acm.hdu.edu.cn/showproblem.php?pid=2012)     
        
              
